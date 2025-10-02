@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Code"
+permalink: /code/
+---
+{% for post in site.categories.code %}
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
