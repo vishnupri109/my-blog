@@ -3,7 +3,7 @@ email: "you@example.com"
 description: "Content-first Lanyon blog"
 
 # For project site:
-url: "https://vishnupri109.github.io"
+url: "dexter-in-a-lab-coat.github.io"
 baseurl: "/my-blog"
 
 remote_theme: poole/lanyon
